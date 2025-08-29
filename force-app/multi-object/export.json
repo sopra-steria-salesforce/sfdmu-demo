@@ -1,0 +1,24 @@
+{
+    "objects": [
+        {
+            "query": "SELECT Id,Name,Type,Industry,Description,AccountNumber,Website,Phone,BillingStreet,BillingCity,BillingPostalCode,BillingCountry FROM Account",
+            "externalId": "Name",
+            "operation": "Upsert"
+        },
+        {
+            "query": "SELECT Id,FirstName,LastName,AccountId,RecordTypeId FROM Contact",
+            "externalId": "Name",
+            "operation": "Upsert"
+        },
+        {
+            "query": "SELECT Id, DeveloperName, SObjectType FROM RecordType",
+            "externalId": "DeveloperName",
+            "operation": "Readonly"
+        },
+        {
+            "query": "SELECT Id,Name,TermCode__c,Campus__c FROM Product2",
+            "externalId": "Name",
+            "operation": "Upsert"
+        }
+    ]
+}
