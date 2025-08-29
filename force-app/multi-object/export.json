@@ -6,7 +6,7 @@
             "operation": "Upsert"
         },
         {
-            "query": "SELECT Id,FirstName,LastName,AccountId,RecordTypeId FROM Contact",
+            "query": "SELECT Id,FirstName,LastName,AccountId,RecordTypeId,MailingStreet FROM Contact",
             "externalId": "Name",
             "operation": "Upsert"
         },

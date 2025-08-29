@@ -1,0 +1,30 @@
+{
+	"objects": [
+		{
+			"operation": "Update",
+			"externalId": "Id",
+			"query": "SELECT Id, MailingStreet FROM Contact WHERE RecordType.Name='B2B' AND MailingStreet LIKE '_________________________________________%' LIMIT 200"
+		}
+	],
+	"dataRetrievedAddons" : [
+		{
+			"module" : "core:RecordsTransform",
+			"args": {
+				"fields": [
+					{
+						"alias": "MailingStreet",
+						"sourceObject": "Contact",
+						"sourceField": "MailingStreet"
+					}
+				],
+				"transformations": [
+					{
+						"targetObject": "Contact",
+						"targetField": "MailingStreet",
+						"formula" : "formula.MailingStreet.substring(0,40)"
+					}
+				]
+			}
+		}
+	]
+}
