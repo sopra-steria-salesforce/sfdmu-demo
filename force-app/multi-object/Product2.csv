@@ -1,101 +1,101 @@
-Id,Name,TermCode__c,Campus__c
-1,"Avsluttende Master of Management program Teamledelse",201710,Oslo
-2,"Avsluttende Master of Management program Consulting",201520,Stavanger
-3,"Styrekompetanse I, Norsk olje og gass",201620,Stavanger
-4,"Markedsføringsledelse",201620,Trondheim
-5,"Bachelor i finans",,Oslo
-6,"Bachelorstudiet i markedsføringsledelse",201520,Bergen
-7,"Bedriftsøkonomi og finans",201810,Nettstudier
-8,"Styrekompetanse",201810,Bergen
-9,"Logistikk og Markedsføring",201520,Bergen
-10,"Avsluttende Master of Management program Identitet og merkevarebygging",201620,Oslo
-11,"Bachelorstudiet i finans",201520,Oslo
-12,"Prestasjoner i organisasjoner",201420,Stavanger
-13,"Oppstart av bedrift",202010,Bergen
-14,"Finansregnskap",201520,Nettstudier
-15,"Bachelorstudiet i økonomi og administrasjon",201920,Nettstudier
-16,"Senterledelse",201710,Bergen
-17,"Bachelor i kommunikasjonsledelse",,
-18,"Prosjektledelse",201520,Bergen
-19,"Ledelse og økonomisk kriminalitet",201710,Nettstudier
-20,"Personalledelse",201720,Oslo
-21,"Strategisk økonomistyring",201710,Bergen
-22,"Markedskommunikasjon",201820,Nettstudier
-23,"Globalization, Security and New Conflicts",201510,Oslo
-24,"Kommunikasjon for ledere og organisasjoner",201810,Trondheim
-25,"Coaching og selvledelse",201720,Oslo
-26,"Vekststrategi for oppstartsbedrifter",201910,Stavanger
-27,"Personalledelse",201510,Trondheim
-28,"Bachelorstudiet i økonomi og administrasjon",201620,Oslo
-29,"Forretningsutvikling og digitalisering",201720,Bergen
-30,"Logistikk og Markedsføring",201720,Oslo
-31,"Kundemøtet - salg og kundebehandling",201420,Bergen
-32,"Metode og innsikt",201420,Stavanger
-33,"Grunnutdanning i ledelse",201810,Oslo
-34,"Endringsledelse",201620,Oslo
-35,"Markedsføringsledelse",201620,Oslo
-36,"Masterprogram Ledelse i skolen",201420,Oslo
-37,"Mathematics, Ph.D.",201620,Oslo
-38,"Bachelor i økonomi og ledelse / siviløkonom",,
-39,"Bachelor i eiendomsmegling, jus og økonomi",,
-40,"Human Resource Management",201420,Stavanger
-41,"Seminar in Marketing Strategy",201610,Oslo
-42,"Organisation Science",201910,Oslo
-43,"Prestasjonsledelse",201820,Oslo
-44,"Styrekompetanse, Female Future NHO",201420,Oslo
-45,"Makroøkonomi",201520,Stavanger
-46,"Bachelorstudiet i finans",201720,Oslo
-47,"Digital forretningsforståelse",201910,Trondheim
-48,"Skatt og avgift",201420,Nettstudier
-49,"Personlig økonomi",201920,Stavanger
-50,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Strategy",201620,Oslo
-51,"Maste of Management-program Utvikling for økt konkurransekraft",201820,Oslo
-52,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Strategy",201420,Oslo
-53,"Bachelorstudiet i Retail Management",201520,Oslo
-54,"Psykologi, organisasjon og ledelse",201510,Oslo
-55,"Matematikk for økonomer",201920,Oslo
-56,"Master of Management program Anvendt økonomi og ledelse",201520,Oslo
-57,"Bachelor i markedsføringsledelse",,
-58,"Kommunikasjon for ledere og organisasjoner",201710,Oslo
-59,"Prosjektledelse",201610,Oslo
-60,"Bacheloroppgave - Anvendt makroøkonomi",201910,Stavanger
-61,"Personlig økonomi",201610,Bergen
-62,"Masterprogram Skatteprosess",201710,Oslo
-63,"Markedskommunikasjon",201520,Nettstudier
-64,"Prosjektledelse - trinnvis modell",201720,Oslo
-65,"Praktisk økonomi og virksomhetsstyring",201710,Nettstudier
-66,"Bachelorstudiet i finans",201420,Oslo
-67,"Bachelor i International Management",201520,Bergen
-68,"Behavioural Finance",201610,Oslo
-69,"Bachelor of Business Administration",201620,Oslo
-70,"Personlig økonomi",201620,Trondheim
-71,"Eiendomsmegling I",201520,Oslo
-72,"Prosjektledelse",201810,Nettstudier
-73,"Finans",201810,Oslo
-74,"Selskapsrett",201920,Oslo
-75,"Butikkledelse",201510,Bergen
-76,"Jus og eiendomsmegling",201720,Stavanger
-77,"Bachelor i Retail Management",,
-78,"Bachelor i International Management",201520,Trondheim
-79,"Markedsføringsledelse",201520,Bergen
-80,"Branding",201810,Stavanger
-81,"Personalledelse, Vindafjord Arbeidsgiverforum",201520,Stavanger
-82,"Financial bubbles, crashes and crises",201520,Oslo
-83,"Sikkerhetsledelse",201620,Stavanger
-84,"Kredittvurdering I",201420,Oslo
-85,"Bachelor i Retail Management",,
-86,"Prosjektledelse",201910,Oslo
-87,"Bachelor i økonomi og administrasjon",,
-88,"Bedriftsutvikling for SMB",201720,Trondheim
-89,"Personalledelse",201620,Stavanger
-90,"Rekruttering, intervjuteknikk og nyansattes læringsprosesser",201420,Oslo
-91,"Kompetanseledelse og læringskultur",201420,Oslo
-92,"Bachelor i International Management",201720,Trondheim
-93,"Bachelorstudiet i markedsføringsledelse",201620,Trondheim
-94,"Matematikk valgfag",201810,Oslo
-95,"Prosjektledelse 1",201510,Bergen
-96,"Strategisk forretningsutvikling og innovasjon",201820,Oslo
-97,"Metode og innsikt",201720,Bergen
-98,"Grunnstudiet - ferdigheter i helseledelse",201420,Nettstudier
-99,"Kommunikasjon for ledere og organisasjoner",201510,Nettstudier
-100,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Finance",201820,Oslo
+Id,Name,TermCode__c,Campus__c,OldID__c,NewID__c
+1,"Avsluttende Master of Management program Teamledelse",201710,Oslo,123456,
+2,"Avsluttende Master of Management program Consulting",201520,Stavanger,123457,123457_201520
+3,"Styrekompetanse I, Norsk olje og gass",201620,Stavanger,123458,123458_201620
+4,"Markedsføringsledelse",201620,Trondheim,123459,123459_201620
+5,"Bachelor i finans",,Oslo,123460,
+6,"Bachelorstudiet i markedsføringsledelse",201520,Bergen,123461,123461_201520
+7,"Bedriftsøkonomi og finans",201810,Nettstudier,123462,123462_201810
+8,"Styrekompetanse",201810,Bergen,123463,123463_201810
+9,"Logistikk og Markedsføring",201520,Bergen,123464,123464_201520
+10,"Avsluttende Master of Management program Identitet og merkevarebygging",201620,Oslo,123465,123465_201620
+11,"Bachelorstudiet i finans",201520,Oslo,123466,123466_201520
+12,"Prestasjoner i organisasjoner",201420,Stavanger,123467,123467_201420
+13,"Oppstart av bedrift",202010,Bergen,123468,123468_202010
+14,"Finansregnskap",201520,Nettstudier,123469,123469_201520
+15,"Bachelorstudiet i økonomi og administrasjon",201920,Nettstudier,123470,123470_201920
+16,"Senterledelse",201710,Bergen,123471,
+17,"Bachelor i kommunikasjonsledelse",,,123472,
+18,"Prosjektledelse",201520,Bergen,123473,
+19,"Ledelse og økonomisk kriminalitet",201710,Nettstudier,123474,
+20,"Personalledelse",201720,Oslo,123475,
+21,"Strategisk økonomistyring",201710,Bergen,123476,
+22,"Markedskommunikasjon",201820,Nettstudier,123477,
+23,"Globalization, Security and New Conflicts",201510,Oslo,123478,
+24,"Kommunikasjon for ledere og organisasjoner",201810,Trondheim,123479,
+25,"Coaching og selvledelse",201720,Oslo,123480,
+26,"Vekststrategi for oppstartsbedrifter",201910,Stavanger,123481,
+27,"Personalledelse",201510,Trondheim,123482,
+28,"Bachelorstudiet i økonomi og administrasjon",201620,Oslo,123483,
+29,"Forretningsutvikling og digitalisering",201720,Bergen,123484,
+30,"Logistikk og Markedsføring",201720,Oslo,123485,
+31,"Kundemøtet - salg og kundebehandling",201420,Bergen,123486,
+32,"Metode og innsikt",201420,Stavanger,123487,
+33,"Grunnutdanning i ledelse",201810,Oslo,123488,
+34,"Endringsledelse",201620,Oslo,123489,123489_201620
+35,"Markedsføringsledelse",201620,Oslo,123490,
+36,"Masterprogram Ledelse i skolen",201420,Oslo,123491,
+37,"Mathematics, Ph.D.",201620,Oslo,123492,
+38,"Bachelor i økonomi og ledelse / siviløkonom",,,123493,
+39,"Bachelor i eiendomsmegling, jus og økonomi",,,123494,
+40,"Human Resource Management",201420,Stavanger,123495,
+41,"Seminar in Marketing Strategy",201610,Oslo,123496,
+42,"Organisation Science",201910,Oslo,123497,
+43,"Prestasjonsledelse",201820,Oslo,123498,
+44,"Styrekompetanse, Female Future NHO",201420,Oslo,123499,
+45,"Makroøkonomi",201520,Stavanger,123500,
+46,"Bachelorstudiet i finans",201720,Oslo,123501,123501_201720
+47,"Digital forretningsforståelse",201910,Trondheim,123502,
+48,"Skatt og avgift",201420,Nettstudier,123503,
+49,"Personlig økonomi",201920,Stavanger,123504,
+50,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Strategy",201620,Oslo,123505,
+51,"Maste of Management-program Utvikling for økt konkurransekraft",201820,Oslo,123506,
+52,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Strategy",201420,Oslo,123507,123507_201420
+53,"Bachelorstudiet i Retail Management",201520,Oslo,123508,123508_201520
+54,"Psykologi, organisasjon og ledelse",201510,Oslo,123509,123509_201510
+55,"Matematikk for økonomer",201920,Oslo,123510,
+56,"Master of Management program Anvendt økonomi og ledelse",201520,Oslo,123511,
+57,"Bachelor i markedsføringsledelse",,,123512,
+58,"Kommunikasjon for ledere og organisasjoner",201710,Oslo,123513,
+59,"Prosjektledelse",201610,Oslo,123514,
+60,"Bacheloroppgave - Anvendt makroøkonomi",201910,Stavanger,123515,
+61,"Personlig økonomi",201610,Bergen,123516,
+62,"Masterprogram Skatteprosess",201710,Oslo,123517,
+63,"Markedskommunikasjon",201520,Nettstudier,123518,123518_201520
+64,"Prosjektledelse - trinnvis modell",201720,Oslo,123519,123519_201720
+65,"Praktisk økonomi og virksomhetsstyring",201710,Nettstudier,123520,123520_201710
+66,"Bachelorstudiet i finans",201420,Oslo,123521,123521_201420
+67,"Bachelor i International Management",201520,Bergen,123522,123522_201520
+68,"Behavioural Finance",201610,Oslo,123523,123523_201610
+69,"Bachelor of Business Administration",201620,Oslo,123524,123524_201620
+70,"Personlig økonomi",201620,Trondheim,123525,
+71,"Eiendomsmegling I",201520,Oslo,123526,
+72,"Prosjektledelse",201810,Nettstudier,123527,
+73,"Finans",201810,Oslo,123528,
+74,"Selskapsrett",201920,Oslo,123529,
+75,"Butikkledelse",201510,Bergen,123530,
+76,"Jus og eiendomsmegling",201720,Stavanger,123531,
+77,"Bachelor i Retail Management",,,123532,
+78,"Bachelor i International Management",201520,Trondheim,123533,
+79,"Markedsføringsledelse",201520,Bergen,123534,
+80,"Branding",201810,Stavanger,123535,
+81,"Personalledelse, Vindafjord Arbeidsgiverforum",201520,Stavanger,123536,
+82,"Financial bubbles, crashes and crises",201520,Oslo,123537,
+83,"Sikkerhetsledelse",201620,Stavanger,123538,
+84,"Kredittvurdering I",201420,Oslo,123539,
+85,"Bachelor i Retail Management",,,123540,
+86,"Prosjektledelse",201910,Oslo,123541,
+87,"Bachelor i økonomi og administrasjon",,,123542,
+88,"Bedriftsutvikling for SMB",201720,Trondheim,123543,
+89,"Personalledelse",201620,Stavanger,123544,
+90,"Rekruttering, intervjuteknikk og nyansattes læringsprosesser",201420,Oslo,123545,
+91,"Kompetanseledelse og læringskultur",201420,Oslo,123546,
+92,"Bachelor i International Management",201720,Trondheim,123547,
+93,"Bachelorstudiet i markedsføringsledelse",201620,Trondheim,123548,
+94,"Matematikk valgfag",201810,Oslo,123549,
+95,"Prosjektledelse 1",201510,Bergen,123550,
+96,"Strategisk forretningsutvikling og innovasjon",201820,Oslo,,
+97,"Metode og innsikt",201720,Bergen,,
+98,"Grunnstudiet - ferdigheter i helseledelse",201420,Nettstudier,,
+99,"Kommunikasjon for ledere og organisasjoner",201510,Nettstudier,,
+100,"Master i økonomi og ledelse /Siviløkonom (MSc in Business, 2-årig masterdel/4. år), Major/spesialisering: Finance",201820,Oslo,,

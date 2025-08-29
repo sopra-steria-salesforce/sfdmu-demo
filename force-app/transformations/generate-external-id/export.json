@@ -1,0 +1,35 @@
+{
+	"objects": [
+		{
+			"operation": "Upsert",
+			"externalId": "Id",
+			"query": "SELECT Id,OldID__c,TermCode__c,NewId__c FROM Product2 WHERE NewID__c = null AND OldID__c != null AND TermCode__c != null"
+		}
+	],
+	"dataRetrievedAddons" : [
+		{
+			"module" : "core:RecordsTransform",
+			"args": {
+				"fields": [
+					{
+						"alias": "Term",
+						"sourceObject": "Product2",
+						"sourceField": "TermCode__c"
+					},
+					{
+						"alias": "OldID",
+						"sourceObject": "Product2",
+						"sourceField": "OldID__c"
+					}
+				],
+				"transformations": [
+					{
+						"targetObject": "Product2",
+						"targetField": "NewId__c",
+						"formula" : "formula.OldID + '_' + formula.Term"
+					}
+				]
+			}
+		}
+	]
+}

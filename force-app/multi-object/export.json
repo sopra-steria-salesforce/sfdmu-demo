@@ -3,12 +3,14 @@
         {
             "query": "SELECT Id,Name,Type,Industry,Description,AccountNumber,Website,Phone,BillingStreet,BillingCity,BillingPostalCode,BillingCountry FROM Account",
             "externalId": "Name",
-            "operation": "Upsert"
+            "operation": "Upsert",
+            "deleteOldData": true
         },
         {
             "query": "SELECT Id,FirstName,LastName,AccountId,RecordTypeId,MailingStreet FROM Contact",
             "externalId": "Name",
-            "operation": "Upsert"
+            "operation": "Upsert",
+            "deleteOldData": true
         },
         {
             "query": "SELECT Id, DeveloperName, SObjectType FROM RecordType",
@@ -16,9 +18,10 @@
             "operation": "Readonly"
         },
         {
-            "query": "SELECT Id,Name,TermCode__c,Campus__c FROM Product2",
+            "query": "SELECT Id,Name,TermCode__c,Campus__c,OldID__c,NewID__c FROM Product2",
             "externalId": "Name",
-            "operation": "Upsert"
+            "operation": "Upsert",
+            "deleteOldData": true
         }
     ]
 }
