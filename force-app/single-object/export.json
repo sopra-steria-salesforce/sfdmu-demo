@@ -3,7 +3,8 @@
         {
             "query": "SELECT Id, Name FROM Account",
             "externalId": "Name",
-            "operation": "Upsert"
+            "operation": "Insert",
+            "deleteOldData": true
         }
     ]
 }
